@@ -27,19 +27,15 @@ Voici l'arborescence du projet, qui contient les scripts d'entraînement, le mod
 Mon_projet
 
     ├──data
-    │  └──data_cleaned.csv
-    │
-    │
-    ├──.gitattributes
-    │
-    ├──columns.joblib 
-    │
-    ├──dashbord.py
-    │
-    ├──entrainement.py
-
-
-
+    │  └──data_cleaned.csv  # Données nettoyées utilisées
+    ├──.gitattributes       # Fichier de configuration Git
+    ├──columns.joblib       # Fichier pour les noms des colonnes du modèle
+    ├──dashbord.py          # Application web Streamlit pour le scoring
+    ├──entrainement.py      # Script Python pour l'entraînement et la sauvegarde du modèle
+    ├──logo.png             # Logo de l'application
+    ├──model.joblib         # Le modèle de Machine Learning sauvegardé
+    ├──readme.md            # Fichier de documentation du projet
+    └──requirements.txt     # Dépendances Python nécessaires
 
 
 fhhfjkflflmlmmji
