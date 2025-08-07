@@ -24,13 +24,21 @@ Le projet a été développé en suivant un flux de travail standard :
 
 Voici l'arborescence du projet, qui contient les scripts d'entraînement, le modèle sauvegardé et l'application Streamlit :
 
-/votre_projet
+Mon_projet
 
-    /notebook
+    ├──data
+    │
+    │   └──data_cleaned.csv
+    │
+    │
+    ├──.gitattributes
+    │
+    ├──columns.joblib 
+    │
+    ├──dashbord.py
+    │
+    ├──entrainement.py
 
-        /data
-        
-             /data_cleaned.csv
 
 
 
