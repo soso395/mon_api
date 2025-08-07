@@ -28,6 +28,11 @@ Voici l'arborescence du projet, qui contient les scripts d'entraînement, le mod
     /notebook
         /data
              /data_cleaned.csv
+
+
+
+
+fhhfjkflflmlmmji
 ├── notebook
 │   └── data
 │       └── data_cleaned.csv  # Données nettoyées utilisées pour l'entraînement
