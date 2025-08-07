@@ -27,8 +27,7 @@ Voici l'arborescence du projet, qui contient les scripts d'entraînement, le mod
 Mon_projet
 
     ├──data
-    │
-    │   └──data_cleaned.csv
+    │  └──data_cleaned.csv
     │
     │
     ├──.gitattributes
