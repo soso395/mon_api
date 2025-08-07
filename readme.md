@@ -1,9 +1,9 @@
 # Implémentez un modèle de scoring
 
-## Table of Contents
+## Table des matières
 - [Introduction](#introduction)
-- [Strucure_du_projet](#structure du projet)
-- [Déroulement_du_projet](#déroulement du projet)
+- [Strucure du projet](#structure-du-projet)
+- [Déroulement du projet](#déroulement-du-projet)
 - [Prérequis](#prérequis)
 - [Installation](#installation)
 - [Utilisation](#utilisation)
@@ -25,6 +25,9 @@ Le projet a été développé en suivant un flux de travail standard :
 Voici l'arborescence du projet, qui contient les scripts d'entraînement, le modèle sauvegardé et l'application Streamlit :
 
 /votre_projet
+    /notebook
+        /data
+             /data_cleaned.csv
 ├── notebook
 │   └── data
 │       └── data_cleaned.csv  # Données nettoyées utilisées pour l'entraînement
