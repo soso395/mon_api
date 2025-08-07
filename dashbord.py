@@ -88,7 +88,7 @@ st.title(" Dashboard de Prédiction")
 st.write("Entrez un identifiant client pour estimer la probabilité de défaut.")
 
 # Charger les données clients
-df_clients = pd.read_csv("./notebook/data/data_cleaned.csv")
+df_clients = pd.read_csv("./data/data_cleaned.csv")
 client_ids = df_clients["SK_ID_CURR"].tolist()
 client_id = st.selectbox("Sélectionnez un client :", client_ids)
 
