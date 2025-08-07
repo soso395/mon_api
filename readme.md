@@ -38,33 +38,6 @@ Mon_projet
     └──requirements.txt     # Dépendances Python nécessaires
 
 
-fhhfjkflflmlmmji
-├── notebook
-│   └── data
-│       └── data_cleaned.csv  # Données nettoyées utilisées pour l'entraînement
-├── .gitattributes          # Fichier de configuration Git
-├── columns.joblib          # Fichier pour les noms des colonnes du modèle
-├── dashbord.py             # Application web Streamlit pour le scoring
-├── entrainement.py         # Script Python pour l'entraînement et la sauvegarde du modèle
-├── logo.png                # Logo de l'application
-├── model.joblib            # Le modèle de Machine Learning sauvegardé
-├── readme.md               # Fichier de documentation du projet
-└── requirements.txt        # Dépendances Python nécessaires
-
-
-/votre_projet
-    /static
-        my_first_app.png
-        style.css
-    /templates
-        main.html
-        index.html
-        add_user.html
-        list_users.html
-    api.py
-    README.md
-    requirements.txt
-
 ## Déroulement du projet :
 
 ### Phase 1: Entraînement et sauvegarde du modèle
